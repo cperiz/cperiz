@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @cperiz
-- 👀 I’m interested in natural language processing and deep learning models in general.
+- 👀 I’m interested in natural language processing in general. Specifically on privacy and federated learning in NLU.
 - 🌱 I’m currently learning many things
-- 💞️ I’m looking to collaborate on privacy
-- 📫 Add me on linkedin @ charith-peris 
+- 📫 Add me on linkedin @ charith-peris to communicate
 
 <!---
 cperiz/cperiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
