@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cperiz
-- 👀 I’m interested in natural language processing in general. Specifically on privacy and federated learning in NLU.
+- 👀 I’m interested in natural language processing in general. Specifically privacy and federated learning in NLU.
 - 🌱 I’m currently learning many things
 - 📫 Add me on linkedin @ charith-peris to communicate
 
